@@ -110,6 +110,11 @@ form label, form legend{
     margin: 0 0 10px;
 }
 
+.main-contacto{
+    width: 940px;
+     margin: auto;
+ }
+
 .input-padron{
     display: block;
     margin: 0 0 20px;
